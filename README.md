@@ -9,7 +9,7 @@ This is a example of a coding assignment I completed in Cis 199 that displays ne
 
 <p align="center">
  <br/>
-<img src="blob:https://imgur.com/a97ba100-032f-49a3-a16c-d4bb6c2577db" alt="]"/>
+<img src="https://i.imgur.com/Dec9xTE.png" alt="]"/>
 Code:
 using System;
 using System.Collections.Generic;
